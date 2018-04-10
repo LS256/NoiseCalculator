@@ -10,6 +10,7 @@ public class NoiseCalculator {
 		for(Integer i:testArray) {
 			System.out.println("Element in array has following value: " + i);
 			}
+		System.out.println("Koniec");
 	}
 
 }
